@@ -1,0 +1,86 @@
+pclass;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked
+3;Webber, Mr. James;male;;0;0;SOTON/OQ 3101316;8.05;;S
+3;Wenzel, Mr. Linhart;male;32.5;0;0;345775;9.5;;S
+3;Whabee, Mrs. George Joseph (Shawneene Abi-Saab);female;38;0;0;2688;72292;;C
+3;Widegren, Mr. Carl/Charles Peter;male;51;0;0;347064;7.75;;S
+3;Wiklund, Mr. Jakob Alfred;male;18;1;0;3101267;64958;;S
+3;Wiklund, Mr. Karl Johan;male;21;1;0;3101266;64958;;S
+3;Wilkes, Mrs. James (Ellen Needs);female;47;1;0;363272;7;;S
+3;"Willer, Mr. Aaron (""Abi Weller"")";male;;0;0;3410;87125;;S
+3;Willey, Mr. Edward;male;;0;0;S.O./P.P. 751;7.55;;S
+3;"Williams, Mr. Howard Hugh ""Harry""";male;;0;0;A/5 2466;8.05;;S
+3;Williams, Mr. Leslie;male;28.5;0;0;54636;16.1;;S
+3;Windelov, Mr. Einar;male;21;0;0;SOTON/OQ 3101317;7.25;;S
+3;Wirz, Mr. Albert;male;27;0;0;315154;86625;;S
+3;Wiseman, Mr. Phillippe;male;;0;0;A/4. 34244;7.25;;S
+3;Wittevrongel, Mr. Camille;male;36;0;0;345771;9.5;;S
+3;Yasbeck, Mr. Antoni;male;27;1;0;2659;144542;;C
+3;Yasbeck, Mrs. Antoni (Selini Alexander);female;15;1;0;2659;144542;;C
+3;Youseff, Mr. Gerious;male;45.5;0;0;2628;7225;;C
+3;Yousif, Mr. Wazli;male;;0;0;2647;7225;;C
+3;Yousseff, Mr. Gerious;male;;0;0;2627;144583;;C
+3;Zabour, Miss. Hileni;female;14.5;1;0;2665;144542;;C
+3;Zabour, Miss. Thamine;female;;1;0;2665;144542;;C
+3;Zakarian, Mr. Mapriededer;male;26.5;0;0;2656;7225;;C
+3;Zakarian, Mr. Ortin;male;27;0;0;2670;7225;;C
+3;Zimmerman, Mr. Leo;male;29;0;0;315082;7875;;S
+2;Hocking, Mrs. Elizabeth (Eliza Needs);female;54;1;3;29105;23;;S
+2;Hodges, Mr. Henry Price;male;50;0;0;250643;13;;S
+2;Hold, Mr. Stephen;male;44;1;0;26707;26;;S
+2;Hold, Mrs. Stephen (Annie Margaret Hill);female;29;1;0;26707;26;;S
+2;Hood, Mr. Ambrose Jr;male;21;0;0;S.O.C. 14879;73.5;;S
+2;Hosono, Mr. Masabumi;male;42;0;0;237798;13;;S
+2;Howard, Mr. Benjamin;male;63;1;0;24065;26;;S
+2;Howard, Mrs. Benjamin (Ellen Truelove Arman);female;60;1;0;24065;26;;S
+2;Hunt, Mr. George Henry;male;33;0;0;SCO/W 1585;12275;;S
+2;Ilett, Miss. Bertha;female;17;0;0;SO/C 14885;10.5;;S
+2;Jacobsohn, Mr. Sidney Samuel;male;42;1;0;243847;27;;S
+2;Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy);female;24;2;1;243847;27;;S
+2;Jarvis, Mr. John Denzil;male;47;0;0;237565;15;;S
+2;Jefferys, Mr. Clifford Thomas;male;24;2;0;C.A. 31029;31.5;;S
+2;Jefferys, Mr. Ernest Wilfred;male;22;2;0;C.A. 31029;31.5;;S
+2;Jenkin, Mr. Stephen Curnow;male;32;0;0;C.A. 33111;10.5;;S
+2;Jerwan, Mrs. Amin S (Marie Marthe Thuillard);female;23;0;0;SC/AH Basle 541;137917;D;C
+2;Kantor, Mr. Sinai;male;34;1;0;244367;26;;S
+2;Kantor, Mrs. Sinai (Miriam Sternin);female;24;1;0;244367;26;;S
+2;Karnes, Mrs. J Frank (Claire Bennett);female;22;0;0;F.C.C. 13534;21;;S
+2;Keane, Miss. Nora A;female;;0;0;226593;12.35;E101;Q
+2;Keane, Mr. Daniel;male;35;0;0;233734;12.35;;Q
+2;"Kelly, Mrs. Florence ""Fannie""";female;45;0;0;223596;13.5;;S
+2;Kirkland, Rev. Charles Leonard;male;57;0;0;219533;12.35;;Q
+2;Knight, Mr. Robert J;male;;0;0;239855;0;;S
+1;Marvin, Mr. Daniel Warner;male;19;1;0;113773;53.1;D30;S
+1;Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson);female;18;1;0;113773;53.1;D30;S
+1;"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")";female;24;0;0;PC 17482;495042;C90;C
+1;McCaffry, Mr. Thomas Francis;male;46;0;0;13050;752417;C6;C
+1;McCarthy, Mr. Timothy J;male;54;0;0;17463;518625;E46;S
+1;McGough, Mr. James Robert;male;36;0;0;PC 17473;262875;E25;S
+1;Meyer, Mr. Edgar Joseph;male;28;1;0;PC 17604;821708;;C
+1;Meyer, Mrs. Edgar Joseph (Leila Saks);female;;1;0;PC 17604;821708;;C
+1;Millet, Mr. Francis Davis;male;65;0;0;13509;26.55;E38;S
+1;Minahan, Dr. William Edward;male;44;2;0;19928;90;C78;Q
+1;Minahan, Miss. Daisy E;female;33;1;0;19928;90;C78;Q
+1;Minahan, Mrs. William Edward (Lillian E Thorpe);female;37;1;0;19928;90;C78;Q
+1;Mock, Mr. Philipp Edmund;male;30;1;0;13236;57.75;C78;C
+1;Molson, Mr. Harry Markland;male;55;0;0;113787;30.5;C30;S
+1;Moore, Mr. Clarence Bloomfield;male;47;0;0;113796;42.4;;S
+1;Natsch, Mr. Charles H;male;37;0;1;PC 17596;29.7;C118;C
+1;Newell, Miss. Madeleine;female;31;1;0;35273;113275;D36;C
+1;Newell, Miss. Marjorie;female;23;1;0;35273;113275;D36;C
+1;Newell, Mr. Arthur Webster;male;58;0;2;35273;113275;D48;C
+1;Newsom, Miss. Helen Monypeny;female;19;0;2;11752;262833;D47;S
+1;Nicholson, Mr. Arthur Ernest;male;64;0;0;693;26;;S
+1;Oliva y Ocana, Dona. Fermina;female;39;0;0;PC 17758;108.9;C105;C
+1;Omont, Mr. Alfred Fernand;male;;0;0;F.C. 12998;257417;;C
+1;Ostby, Miss. Helene Ragnhild;female;22;0;1;113509;619792;B36;C
+1;Ostby, Mr. Engelhart Cornelius;male;65;0;1;113509;619792;B30;C
+1;Ovies y Rodriguez, Mr. Servando;male;28.5;0;0;PC 17562;277208;D43;C
+1;Parr, Mr. William Henry Marsh;male;;0;0;112052;0;;S
+1;Partner, Mr. Austen;male;45.5;0;0;113043;28.5;C124;S
+1;Payne, Mr. Vivian Ponsonby;male;23;0;0;12749;93.5;B24;S
+1;Pears, Mr. Thomas Clinton;male;29;1;0;113776;66.6;C2;S
+1;Pears, Mrs. Thomas (Edith Wearne);female;22;1;0;113776;66.6;C2;S
+1;Penasco y Castellana, Mr. Victor de Satode;male;18;1;0;PC 17758;108.9;C65;C
+1;Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo);female;17;1;0;PC 17758;108.9;C65;C
+1;Perreault, Miss. Anne;female;30;0;0;12749;93.5;B73;S
+1;Peuchen, Major. Arthur Godfrey;male;52;0;0;113786;30.5;C104;S
