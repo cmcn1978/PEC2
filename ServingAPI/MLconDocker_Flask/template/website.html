@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Your Machine Learning App-PEC2</title>
+    </head>
+    
+    <body>
+        <form name="form", method="POST", style="text-align: center;" action="/">
+            <br>
+            Pclass: <input type="number" name="pclass", placeholder="Enter pclass: " required/>
+            <br><br>
+            Name: <input type="text" name="name", placeholder="Enter name: " required/>
+            <br><br>
+            Sex: <input type="text" name="sex", placeholder="Enter sex (Male/Female): " required/>
+            <br><br>
+            Age: <input type="number" name="age", placeholder="Enter age: " required/>
+            <br><br>
+            Sibsp: <input type="number" name="sibsp", placeholder="Enter sibsp: " required/>
+            <br><br>
+            Parch: <input type="number" name="parch", placeholder="Enter parch: " required/>
+            <br><br>
+            Ticket: <input type="text" name="ticket", placeholder="Enter ticket: " required/>
+            <br><br>
+            Fare: <input type="number" name="fare", placeholder="Enter sibsp: " required/>
+            <br><br>
+            Cabin: <input type="text" name="cabin", placeholder="Enter cabin: " required/>
+            <br><br>
+            Embarked: <input type="text" name="embarked", placeholder="Enter embarked: " required/>
+            <br><br>
+
+            <button value="Submit">Run</button>
+        </form>
+        <p style="text-align: center;">{{ output }}</p>
+    </body>
+</html>
